@@ -1,0 +1,1 @@
+<h3>Text from view: index/index</h3>

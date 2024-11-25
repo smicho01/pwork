@@ -1,0 +1,1 @@
+console.log('Remove me from public/js/app.js');
